@@ -6,10 +6,14 @@ Google Sheets function that queries MCommunity for non-Alumni, non-Staff emails.
 |   | A | B |
 |---|---|---|
 | 1 |```=emailLookup(B1)```   |John Smith   |
+| 2 |```=emailLookup(B2)```   |Professor Professorson   |
+
 
 |   | A | B |
 |---|---|---|
 | 1 |johnsmith@umich.edu  |John Smith   |
+| 2 |  |Professor Professorson   |
+
 
 
 
